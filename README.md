@@ -29,10 +29,10 @@ cd TypingsYT
 
 pip install psutil
 
-python3 tok.py
+python3 unlockULTRA.py
 ```
 
 
 [$] CODED BY TYPINGS YT
-
+YOUTUBE : TYPINGS YT
 
