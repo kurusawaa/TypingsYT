@@ -21,6 +21,8 @@ pkg install git
 
 pkg install python
 
+pkg install wget
+
 pkg install python3
 
 git clone https://github.com/kurusawaa/TypingsYT.git
@@ -29,10 +31,15 @@ cd TypingsYT
 
 pip install psutil
 
-python3 unlockULTRA.py
+pip install wget
+
+ls
+
+python3 ultraUNLOVK.py
 ```
 
 
 [$] CODED BY TYPINGS YT
+
 YOUTUBE : TYPINGS YT
 
